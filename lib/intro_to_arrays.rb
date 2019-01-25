@@ -1,0 +1,1 @@
+new_array = Array.new
