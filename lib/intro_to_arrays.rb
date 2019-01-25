@@ -16,3 +16,13 @@ def first_element(array)
 end
 
 
+def third_element(array)
+  array[2]
+end
+
+
+def last_element(array)
+  array[-1]
+end
+
+
