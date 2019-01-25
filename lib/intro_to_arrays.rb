@@ -11,3 +11,8 @@ def array_with_two_elements
 end
 
 
+def first_element(array)
+  array[0]
+end
+
+
